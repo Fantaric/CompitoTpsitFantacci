@@ -37,7 +37,7 @@ public class ThreadRicezione extends Thread{
                  System.out.println(i.getTicketNumber());
             }
 
-
+            
         
         }
     }
